@@ -29,7 +29,7 @@ jQuery(document).ready(function() {
     /*
         Background slideshow
     */
-    $('.section-4-container').backstretch("assets/img/backgrounds/2.jpg");
+    $('.section-4-container').backstretch("./assets/img/backgrounds/sven-brandsma-koh2h2oPU6Y-unsplash.jpg");
     
     /*
 	    Wow
